@@ -38,9 +38,12 @@ Whether you are an active day trader or a long-term investor, Orion Terminal emp
 
 ---
 
-![Orion Terminal Tools](https://a.fsdn.com/con/app/proj/orion-terminal.s/screenshots/2.PNG/max/max/1)  
-
+<div align="center">
+  <img src="https://payload-marketing.moonpay.com/api/media/file/qlkaok5esr-5u5nX4I7jutUUPqysquv38" width="1080"/>
+</div
+  
 ---
+
 
 ## 🚀 Key Features  
 
@@ -58,7 +61,7 @@ Whether you are an active day trader or a long-term investor, Orion Terminal emp
 ---
 
 <div align="center">
-  <img src="https://payload-marketing.moonpay.com/api/media/file/qlkaok5esr-5u5nX4I7jutUUPqysquv38" width="1080"/>
+  <img src="https://miro.medium.com/max/2000/0*lBYuxPCv9caHxpX7.png" width="1080"/>
 </div>  
 
 ---
